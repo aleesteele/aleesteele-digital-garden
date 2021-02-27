@@ -1,5 +1,6 @@
 ---
 title: template
+date: 2021-01-01
 published: false
 ---
 
