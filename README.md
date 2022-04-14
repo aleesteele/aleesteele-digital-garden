@@ -5,6 +5,7 @@
 A central place to put brainstorms and unstructured, lateral thinking.
 
 # How to launch
+`bundle install`
 `bundle exec jekyll serve`
 url: https://aleesteele.netlify.app/
 

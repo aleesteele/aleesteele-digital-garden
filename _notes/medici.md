@@ -7,5 +7,4 @@ date: 2021-08-02
 
 — Mark Twain
 
-
 (come back to this later – but do we really live in such a different time? what about the [[dutch east india company]] - did our cultures imortalise their influence in the same way?) 
