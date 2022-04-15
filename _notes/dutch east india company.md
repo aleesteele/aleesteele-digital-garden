@@ -1,5 +1,5 @@
 ---
-title: digital litter
+title: dutch east india company
 date: 2021-07-20 
 ---
 
