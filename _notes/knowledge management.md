@@ -1,6 +1,6 @@
 ---
 title: knowledge management
-date: 2022-02-015
+date: 2022-02-15
 ---
 how do we keep track of the knowledge we are producing without falling prey to [[information glut]]?
 
